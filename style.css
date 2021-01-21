@@ -18,8 +18,8 @@ body{
 #input{
     width: 500px;
     padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
+    margin: 8px 0;
+    box-sizing: border-box;
 }
 
 #button{

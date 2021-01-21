@@ -4,7 +4,7 @@ var message = document.getElementById("message");
 
 function submit(){
     
-    if(message == ''){
+    if(input.value == ''){
         message.textContent = "Please enter something";
         return false;
     }
